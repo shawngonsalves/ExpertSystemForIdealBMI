@@ -1,19 +1,19 @@
 
 # Instruction manual to use the Expert System
 
-# for Predicting
+ for Predicting
 
-# the regimen for an Ideal BMI
+ the regimen for an Ideal BMI
 
-## by
+ by
 
-## Nihal Nihalani and Shawn Gonsalves
+ Nihal Nihalani and Shawn Gonsalves
 
-## Academic Advisor: Dr. Shuan Inn Wu
+ Academic Advisor: Dr. Shuan Inn Wu
 
-## Fall 2019
+ Fall 2019
 
-## Expert: Prathamesh Adivarekar.
+ Expert: Prathamesh Adivarekar.
 
 
 ## For Windows:
