@@ -1,9 +1,5 @@
 
-# Instruction manual to use the Expert System
-
- for Predicting
-
- the regimen for an Ideal BMI
+# Instruction manual to use the Expert System for Predicting the regimen for an Ideal BMI
 
  by
 
