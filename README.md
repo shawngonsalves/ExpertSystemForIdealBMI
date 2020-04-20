@@ -1,5 +1,5 @@
-# ExpertSystemForIdealBMI
-# Instruction manual to use Expert System
+
+# Instruction manual to use the Expert System
 
 # for Predicting
 
